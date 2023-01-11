@@ -317,3 +317,5 @@ Related panes
 * :doc:`ipythonconsole`
 * :doc:`projects`
 * :doc:`pylint`
+
+print("น้อง")
